@@ -1,5 +1,5 @@
 ### Olá, meu nome é Julio Rezende👦🏾👋
-- 💻 Estudante de Front-end🚀
+- 💻 Estudante de desenvolvimento web\ Front-end🚀
 - movido por desafios, sempre em busca de novas challengens📚
 - #### 🌎 Quanto mais eu sei, mais eu sou 🧠
 
